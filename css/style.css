@@ -1,0 +1,194 @@
+:root {
+    --light-blue : #2196F3;
+    --black-backround : #2F303A;
+    --grey : #757575;
+    --portfolio-button-background : #F5F4FA;
+
+}
+
+.body {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14;
+    color: #212121;
+}
+
+.header {
+    line-height: 1.17;
+}
+
+.web {
+    color: var(--light-blue);
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.studio {
+    color: #212121  ;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.navigation {
+    display: inline;
+}
+
+.navigation-list{
+    list-style-type: none;
+}
+
+.navigation-list-element {
+    font-size: 14px;
+    display: inline;
+}
+
+.navigation-list-element:hover {
+    color: var(--light-blue);
+    
+}
+
+.contact-list {
+    list-style-type: none;
+    font-size: 14px;
+    display: inline;
+}
+
+.contact-list-element {
+    display: inline;
+}
+
+.contact-list-element:hover {
+    color: var(--light-blue);
+}
+
+.contacs {
+    display: inline;
+}
+
+.contacs:hover {
+    color: var(--light-blue);
+}
+
+.navigation-button {
+    cursor: pointer;
+    padding: 6px 22px;
+    margin: 94px 8px 50px 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 1.625;
+}
+
+.navigation-button:hover {
+    color: #FFFFFF;
+    background-color: var(--light-blue);
+}
+
+.posters-list {
+    list-style-type: none;
+}
+
+.categories-image {
+    width: 370px;
+    height: 294px;
+}
+
+.projects {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.project-categorie {
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+}
+
+.adress {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+}
+
+.footer {
+    background-color: var(--black-backround);
+}
+
+.hero {
+    background-color: #2F303A;
+}
+
+.hero-text {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+}
+
+.hero-button {
+    color: #FFFFFF;
+    background-color: var(--light-blue);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+}
+
+.benefits-list {
+    list-style-type: none;
+}
+
+.benefits {
+    color: #212121;
+    font-weight: 700;
+    font: 14px;
+    line-height: 1,17;
+}
+
+.benefits-description {
+    color: #757575;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+}
+
+.sections-names {
+    color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,17;
+}
+
+.tasks-list {
+    list-style-type: none;
+}
+
+.employees-list {
+    list-style-type: none;
+}
+
+.task-image {
+    width: 370px;
+    height: 294px;
+}
+
+.employee-image {
+    width: 270px;
+    height: 260px;
+}
+
+.employee-name {
+    color: #212121;
+    font-size: 16px;
+    line-height: 1.1875;
+}
+
+.employee-position {
+    color: #757575;
+    font-size: 16px;
+    line-height: 1.1875;
+}
+
