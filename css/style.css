@@ -24,8 +24,15 @@
     font-size: 26px;
 }
 
-.studio {
+.studio-header {
     color: #212121  ;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.studio-footer {
+    color: #FFFFFF  ;
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
@@ -111,7 +118,7 @@
     color: #FFFFFF;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
 }
 
 .footer {
@@ -145,21 +152,21 @@
     color: #212121;
     font-weight: 700;
     font: 14px;
-    line-height: 1,17;
+    line-height: 1.17;
 }
 
 .benefits-description {
     color: #757575;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
 }
 
 .sections-names {
     color: #212121;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,17;
+    line-height: 1.17;
 }
 
 .tasks-list {
@@ -191,4 +198,3 @@
     font-size: 16px;
     line-height: 1.1875;
 }
-
