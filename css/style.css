@@ -89,7 +89,8 @@
 
 .footer-contact-list-element {
     color: rgba(255, 255, 255, 0.6);
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
+    line-hight: 1.71;
     margin-top: 9px;
 }
 
@@ -105,10 +106,11 @@
 }
 
 .footer-contacts {
+    font-size: 14px;
     font-weight: 400;
     line-height: 1.71;
     color: rgba(255, 255, 255, 0.6);
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-decoration: none;
 }
 
