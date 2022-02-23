@@ -110,8 +110,16 @@
     color: var(--light-blue);
 }
 
+.footer-contacts:hover {
+    color: var(--light-blue);
+}
+
 .contacts:focus{
    color: var(--light-blue);
+}
+
+.footer-contacts:focus {
+    color: var(--light-blue);
 }
 
 .navigation-link {
