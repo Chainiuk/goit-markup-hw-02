@@ -87,6 +87,12 @@
     letter-spacing: 0.02em;
 }
 
+.footer-contact-list-element {
+    color: rgba(255, 255, 255, 0.6);
+    letter-spacing: 0.02em;
+    margin-top: 9px;
+}
+
 .contact-list-element:hover {
     color: var(--light-blue);
 }
